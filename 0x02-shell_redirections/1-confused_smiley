@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"((U+FF4)o)'"
+echo "\"([U+00F4]o)'"
